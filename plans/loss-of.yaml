@@ -11,7 +11,7 @@ revisions:
     timeCreated: 2020-05-06T00:04:28.980Z
     roles:
       - role: IT service manager
-        responsibility: ''
+        responsibility: Authority
     scope: ''
     procedures:
       - name: contact IT service manager
