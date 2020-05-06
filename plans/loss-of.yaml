@@ -16,7 +16,8 @@ revisions:
     procedures:
       - name: contact IT service manager
         type: implementation
-        steps: []
+        steps:
+          - action: Staff contacts IT service manager that equipment has been lost
         activationCriteria:
           require: all
           criteria: []
