@@ -26,4 +26,5 @@ revisions:
           require: all
           criteria: []
         requiredResources: []
+        roles: []
 purpose: Recovery of functionality of staff computer
