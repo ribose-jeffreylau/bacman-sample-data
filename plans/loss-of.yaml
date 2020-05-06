@@ -14,6 +14,8 @@ revisions:
         responsibility: Authority
       - role: Operations team
         responsibility: Implementation
+      - role: IS manager
+        responsibility: ''
     scope: ''
     procedures:
       - name: contact IT service manager
