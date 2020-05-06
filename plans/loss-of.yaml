@@ -13,4 +13,12 @@ revisions:
       - role: Recovery team
         responsibility: ''
     scope: ''
+    procedures:
+      - name: contact IT service manager
+        type: implementation
+        steps: []
+        activationCriteria:
+          require: all
+          criteria: []
+        requiredResources: []
 purpose: Recovery of functionality of staff computer
