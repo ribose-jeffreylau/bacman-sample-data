@@ -12,4 +12,5 @@ revisions:
     roles:
       - role: Recovery team
         responsibility: ''
+    scope: ''
 purpose: ''
