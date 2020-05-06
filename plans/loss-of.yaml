@@ -1,5 +1,5 @@
 id: loss-of
-name: Loss of
+name: 'Loss of equipment: staff computer'
 revisions:
   - activationCriteria:
       require: all
