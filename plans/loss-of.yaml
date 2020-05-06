@@ -3,6 +3,9 @@ name: 'Loss of equipment: staff computer'
 revisions:
   - activationCriteria:
       require: all
-      criteria: []
+      criteria:
+        - >-
+          On determination that a staff computer is lost due to destruction,
+          misplacement or burglary.
     requiredResources: []
     timeCreated: 2020-05-06T00:04:28.980Z
