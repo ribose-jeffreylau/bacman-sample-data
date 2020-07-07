@@ -100,7 +100,7 @@ revisions:
           require: all
           criteria: []
         requiredResources: []
-    scope: this is a plan scope.
+    scope: this is a plan scope. post v1
   - activationCriteria:
       require: all
       criteria:
