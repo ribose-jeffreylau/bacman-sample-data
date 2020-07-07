@@ -50,7 +50,7 @@ revisions:
               Ensure all CCTV devices and network equipment are switched back to
               resumed UPS power supply
         activationCriteria:
-          require: all
+          require: none
           criteria: []
         requiredResources:
           - type: people
