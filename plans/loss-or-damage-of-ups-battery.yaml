@@ -55,6 +55,8 @@ revisions:
         requiredResources:
           - type: people
             description: 1 operations team member
+          - type: other
+            description: hghh
         roles: []
       - name: Install replacement battery
         type: implementation
