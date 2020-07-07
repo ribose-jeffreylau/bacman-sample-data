@@ -55,6 +55,7 @@ revisions:
         requiredResources:
           - type: people
             description: 1 operations team member
+        roles: []
       - name: Install replacement battery
         type: implementation
         steps: []
