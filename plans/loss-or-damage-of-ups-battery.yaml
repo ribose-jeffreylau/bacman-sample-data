@@ -57,6 +57,8 @@ revisions:
             description: 1 operations team member
           - type: other
             description: hghh
+          - type: funds
+            description: dfgdf
         roles: []
       - name: Install replacement battery
         type: implementation
