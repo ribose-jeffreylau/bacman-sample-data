@@ -100,5 +100,5 @@ revisions:
           require: all
           criteria: []
         requiredResources: []
-    scope: ''
+    scope: this is a plan scope.
 purpose: Recovery of UPS functionality on UPS battery failure.
